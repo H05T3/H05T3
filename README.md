@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hello!
+## My name is Humberto Torres and I am a 3rd year at Ball State University
+- I am pursuing a Bachelors in Science for Applied Mathematics and a Bachelors in Science for Computer Science
+- I am always trying to refine my skills as a programmer and a mathematician
 
+### Feel free to follow, connect, and reach out!
+LinkedIn | Handshake | Email:
+[LinkedIn](https://www.linkedin.com/in/humbertotorresiii) | [Handshake](https://app.joinhandshake.com/profiles/8sq3f4) | HUMBERTOLLLT@GMAIL.COM
 <!--
 **H05T3/H05T3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
