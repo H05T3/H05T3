@@ -1,7 +1,20 @@
-# Hello!
-## My name is Humberto Torres and I am a 3rd year at Ball State University
-- I am pursuing a Bachelors in Science for Applied Mathematics and a Bachelors in Science for Computer Science
-- I am always trying to refine my skills as a programmer and a mathematician
+# Hello, my name is Humberto Torres
+Welcome to my GitHub, here is some information to get to know me!
+
+## Background & Education
+- I am currently in my 3rd year at Ball State University
+- I am studying for my 2 Bachelors of Science degrees in Applied Mathematics and Computer Science
+- I first learned to code in Java and Python back in Highschool and have learned much more in college
+
+### List of some skills I've learned as a programmer
+* Python
+* Java
+* Web Stack (HTML, CSS, JS)
+* C++
+* C
+* Rest API's
+* API utilization
+* Utilizing AI to code efficiently and cleanly
 
 ### Feel free to follow, connect, and reach out!
 LinkedIn | Handshake | Email:
