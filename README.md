@@ -26,6 +26,8 @@ LinkedIn | Handshake | Email:
   * The game is based around the Kamakura Period Japan and gives you 4 battle maps to choose from, with 4 different sets of armies you can control and fight against ai opponents. The game is just a tiny and simple battle game but hooked me when I was younger. I haven't been able to find it since I last played it, so I am planning on recreating it
 * A math learning app for higher level mathematics
   * I wanted to put my Applied Mathematics concentration to some use and try to share my knowledge with a app that will help teach you higher level math with good visualizations and a reward system
+* Experimenting with Tableau and datasets
+  * I want to get an idea on how to use professional tools like Tableau to visualize data sets I am experimenting with
 <!--
 **H05T3/H05T3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
